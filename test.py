@@ -1,2 +1,3 @@
-('Hello,Aziza!')
-('Welcome to IT!')
+print('Hello,Aziza!')
+print('Welcome to IT!')
+print('Lucky')
